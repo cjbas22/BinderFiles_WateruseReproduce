@@ -1,0 +1,1 @@
+install.packages(c('tidyverse', 'lubridate', 'ggpattern', 'cowplot', 'gridExtra', 'viridis', 'scales', 'RColorBrewer', 'remotes', 'ggpattern'))
